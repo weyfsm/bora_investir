@@ -6,7 +6,7 @@
 
 ___
 
-- 🐱‍💻 O 2º Desafio Integrado desenvolvido durante o <a href="https://www.inova.ma.gov.br/trilhas" target="_blank">Programa Trilhas (Inova Maranhão)</a> reuniu Cientistas de Dados, Designers e Programadores com o objetivo de criar soluções para o mercado financeiro.
+- 🐱‍💻 O 2º Desafio Integrado reuniu Cientistas de Dados, Designers e Programadores com o objetivo de criar soluções para o mercado financeiro, e foi desenvolvido durante o <a href="https://www.inova.ma.gov.br/trilhas" target="_blank">Programa Trilhas (Inova Maranhão)</a> .
 
 - Análises de bancos de dados mostraram que a maior parte dos maranhenses quer investir, mas não sabe como. Além disso, a maior parte de preocupa com a aposentadoria, mas não busca formas de obter retorno financeiro.
 
