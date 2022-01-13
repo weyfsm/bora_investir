@@ -1,4 +1,4 @@
-### Eai, siô. Bora Investir?
+# Eai, siô. Bora Investir?
 ## 💻 Plataforma de educação financeira com foco em maranhenses, desenvolvida durante o 2º Desafio Integrado | Programa Trilhas
 
 #### 🔗 Acesse: https://bora-investir.vercel.app
