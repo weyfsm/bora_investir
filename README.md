@@ -3,7 +3,6 @@
 
 #### 🔗 Acesse: https://bora-investir.vercel.app
 <br>
-
 ___
 
 - O 2º Desafio Integrado reuniu Cientistas de Dados, Designers e Programadores com o objetivo de criar soluções para o mercado financeiro, e foi desenvolvido durante o <a href="https://www.inova.ma.gov.br/trilhas" target="_blank">Programa Trilhas (Inova Maranhão)</a> .
